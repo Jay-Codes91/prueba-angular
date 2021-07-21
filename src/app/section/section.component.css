@@ -1,0 +1,55 @@
+section{
+    margin-top: 30px;
+}
+
+#DivTitulo{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+#tit{
+    padding: 5px;
+
+}
+
+#Principal{
+    margin-top: 40px;
+}
+
+#Cont2{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cajas{
+    background-color: wheat;
+    width: 20%;
+    height: auto;
+    margin: 3px;
+}
+
+#imgAdmin{
+    width: 15%;
+    height: 150px;
+}
+
+#CAdmin{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Admin{
+    width: 15%;
+    height: auto;
+}
+
+#text{
+    padding: 5px;
+    margin-top: 20%;
+}
+
+#desc{
+    margin-right: 500px;
+}

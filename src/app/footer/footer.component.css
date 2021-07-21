@@ -1,0 +1,17 @@
+#foot{
+    padding: 5px;
+    width: auto;
+    height: auto;
+}
+
+#nav2{
+    margin-left: 400px;
+}
+
+#btnSus:hover{
+    color: black;
+}
+
+a{
+    font-size: 28px;
+}

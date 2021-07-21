@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    font-size: 28px;
+}
+
+#Contenedor{
+    width: 90%;
+    margin: auto;
+}
+
+#IMG{
+    width: 350px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
